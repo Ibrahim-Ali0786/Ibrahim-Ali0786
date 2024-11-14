@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ibrahim Tin Wala (@Ibrahim-Ali0786)
+# 👋 Hi, I’m Ibrahim Ali (@Ibrahim-Ali0786)
 
 ## 👀 About Me
 I am a passionate **Computer Science student** currently in my 3rd year at **Mahakal Institute of Technology, Ujjain**. I have a strong foundation in **Java, C, C++, HTML, CSS, JavaScript**, and various libraries like **Node.js, Express, Mongoose, MongoDB, SQL**, and **EJS**. My professional interests include **web development**, **data analysis**, and **system architecture**. I love solving complex problems and building efficient and scalable applications.
